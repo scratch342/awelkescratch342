@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1502770188 source:c:\users\awelke\desktop\codeblocks stuff\project\add.cpp
+
+1502776424 source:c:\users\awelke\desktop\codeblocks stuff\project\main.cpp
+	<iostream>
+	"add.h"
+
+1502785338 c:\users\awelke\desktop\codeblocks stuff\project\add.h
+
